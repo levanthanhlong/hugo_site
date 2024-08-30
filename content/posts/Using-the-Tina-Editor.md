@@ -1,7 +1,7 @@
 ---
 title: Using the Tina Editor
 date: 2024-08-28T17:00:00.000Z
-draft: false
+status: published
 ---
 
 Tina is very flexible & extendable, so any Tina site may have a unique experience. As an introduction, we'll cover the out-of-the-box experience that most of our starters implement.

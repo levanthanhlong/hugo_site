@@ -1,7 +1,7 @@
 ---
 title: Hugo + TinaCMS Setup Guide
-date: 2024-08-28T17:00:00.000Z
-draft: false
+date: 2024-08-28T17:00:00.000
+status: published
 ---
 
 ## Introduction

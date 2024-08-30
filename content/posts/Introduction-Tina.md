@@ -1,7 +1,7 @@
 ---
 title: Introduction Tina
 date: 2024-08-28T17:00:00.000Z
-draft: true
+status: published
 ---
 
 ## Introduction

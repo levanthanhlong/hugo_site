@@ -1,7 +1,7 @@
 ---
 title: What is TinaCloud?
 date: 2024-08-28T17:00:00.000Z
-draft: false
+status: published
 ---
 
 TinaCloud is a hosted [datalayer](https://tina.io/docs/reference/content-api/datalayer) for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be [self-hosted](https://tina.io/docs/self-hosted/overview) or used independently of TinaCloud as well.

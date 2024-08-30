@@ -1,16 +1,18 @@
 ---
+published: true
+reason: change successfull
 title: Data Fetching
 date: 2024-08-28T17:00:00.000Z
-draft: false
+status: published
 ---
 
 ## Introduction 11
 
-With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they're in a database.
+With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they're in a database.ssss
 
 You can:
 
-* Query content for a given collection222 
+* Query content for a given collection222
 * Apply filters, sorting, pagination, etc1 ádfsadfsdfưqwe
 * Query your content based on relational fields.12
 

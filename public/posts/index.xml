@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 28 Aug 2024 17:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Content Modeling with TinaCMS</title>
-      <link>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</guid>
-      <description>Introduction The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
-    </item>
-    <item>
       <title>Data Fetching</title>
       <link>http://localhost:1313/posts/data-fetching/</link>
       <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/data-fetching/</guid>
-      <description>Introduction 11 With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they&amp;rsquo;re in a database.&#xA;You can:&#xA;Query content for a given collection222 Apply filters, sorting, pagination, etc1 ádfsadfsdfưqwe Query your content based on relational fields.12 To interface with the API, you can use Tina&amp;rsquo;s type-safe client for dádfsdfata-fetc22hing, or 222 manually write custom GraphQL queries and hit the API yourself.</description>
+      <description>Introduction 11 With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they&amp;rsquo;re in a database.ssss&#xA;You can:&#xA;Query content for a given collection222 Apply filters, sorting, pagination, etc1 ádfsadfsdfưqwe Query your content based on relational fields.12 To interface with the API, you can use Tina&amp;rsquo;s type-safe client for dádfsdfata-fetc22hing, or 222 manually write custom GraphQL queries and hit the API yourself.</description>
+    </item>
+    <item>
+      <title>GraphQL là gì? Bắt đầu với GraphQL</title>
+      <link>http://localhost:1313/posts/graphql-l-g-bt-u-vi-graphql/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/graphql-l-g-bt-u-vi-graphql/</guid>
+      <description>Chào mọi người. Sau khi tìm hiểu về GraphQL, mình xin mạo muội chia sẻ chút kiến thức về nó cho mọi người cùng tiếp cận và cách sử dụng GraphQL như thế nào nhé.&#xA;I. Giới thiệu về GraphQL 1.1 Tổng quan GraphQL là ngôn ngữ thao tác và truy vấn dữ liệu nguồn mở cho API, cung cấp cho client 1 cách thức dễ dàng để request chính xác những gì họ cần, giúp việc phát triển API dễ dàng hơn theo thời gian.</description>
     </item>
     <item>
       <title>Hugo &#43; TinaCMS Setup Guide</title>
@@ -42,6 +42,13 @@
       <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/what-is-tinacloud/</guid>
       <description>TinaCloud is a hosted datalayer for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be self-hosted or used independently of TinaCloud as well.</description>
+    </item>
+    <item>
+      <title>Content Modeling with TinaCMSs</title>
+      <link>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</link>
+      <pubDate>Tue, 27 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</guid>
+      <description>Introductionnz The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
     </item>
   </channel>
 </rss>

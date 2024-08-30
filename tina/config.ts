@@ -60,9 +60,13 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "boolean",
-            name: "draft",
-            label: "Darft",
+            type: "string",
+            name: "status",
+            label: "Status: draft of published",
+            options: [
+              { value: "draft", label: "Draft" }, // Tùy chọn "Draft"
+              { value: "published", label: "Published" }, // Tùy chọn "Published"
+            ],
             required: true,
           },
           {

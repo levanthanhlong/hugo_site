@@ -1,10 +1,12 @@
 ---
-title: Content Modeling with TinaCMS
-date: 2024-08-28T17:00:00.000Z
-draft: false
+reason: change successfull
+published: true
+title: Content Modeling with TinaCMSs
+date: 2024-08-27T17:00:00.000Z
+status: published
 ---
 
-## Introduction
+## Introductionnz
 
 The Tina schema defines the shape of your content. Tina uses a "content-modeling as code" approach. This has a few benefits compared to modelling through a UI:
 

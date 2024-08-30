@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</loc>
+    <loc>http://localhost:1313/posts/data-fetching/</loc>
     <lastmod>2024-08-28T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/data-fetching/</loc>
+    <loc>http://localhost:1313/posts/graphql-l-g-bt-u-vi-graphql/</loc>
     <lastmod>2024-08-28T17:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -22,6 +22,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/what-is-tinacloud/</loc>
     <lastmod>2024-08-28T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</loc>
+    <lastmod>2024-08-27T17:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
