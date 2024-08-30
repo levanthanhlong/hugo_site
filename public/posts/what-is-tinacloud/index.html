@@ -1,0 +1,281 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>What is TinaCloud? - Headbook</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="TinaCloud is a hosted datalayer for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be self-hosted or used independently of TinaCloud as well." />
+  <meta name="author" content="Headbook" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
+
+  
+  <meta name="generator" content="Hugo 0.133.0">
+
+  
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
+  <div class="relative z-50 ltr:mr-auto rtl:ml-auto flex items-center">
+    <a class="-translate-y-[1px] text-2xl font-medium" href="http://localhost:1313/"
+      >Headbook</a
+    >
+    <div
+      class="btn-dark text-[0] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 ltr:-mr-8 rtl:-ml-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-14">
+    <h1 class="!my-0 pb-2.5">What is TinaCloud?</h1>
+
+    
+    <div class="text-xs antialiased opacity-60">
+      
+      <time>Aug 28, 2024</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
+
+  <section><p>TinaCloud is a hosted <a href="https://tina.io/docs/reference/content-api/datalayer">datalayer</a> for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be <a href="https://tina.io/docs/self-hosted/overview">self-hosted</a> or used independently of TinaCloud as well.</p>
+<p>For more information, see <a href="https://tina.io/docs/tina-cloud/overview">TinaCloud Overview</a>.</p>
+<h2 id="where-can-i-get-help-or-share-an-idea-for-tinacms-or-tinacloud">Where can I get help or share an idea for TinaCMS or TinaCloud?</h2>
+<ul>
+<li>Check out our communities at <a href="https://tina.io/community/">https://tina.io/community/</a></li>
+</ul>
+<h2 id="what-is-tinas-tech-stack">What is Tina&rsquo;s tech stack?</h2>
+<h3 id="tinacloud">TinaCloud</h3>
+<ul>
+<li>Content querying + indexing - Node</li>
+<li>Cloud provider - AWS</li>
+<li>Identity management - Go</li>
+</ul>
+<h3 id="tinacms">TinaCMS</h3>
+<ul>
+<li>CMS - React 18</li>
+</ul>
+<h2 id="what-features-are-unavailable-in-self-hosted-tina-compared-to-tinacloud">What features are unavailable in self-hosted Tina compared to TinaCloud?</h2>
+<p>When comparing TinaCloud with self-hosting Tina, there are specific features unique to TinaCloud. These include:</p>
+<h3 id="1-git-backed-media">1. Git Backed Media</h3>
+<p>In TinaCloud, there&rsquo;s a Git backed media feature. This integrates media into the Tina Media Manager and commits it directly to the Git repository. However, this functionality is not present in self-hosted Tina.</p>
+<p>The reason for its absence is due to the process involving media uploads. When using the media manager in TinaCloud, images are uploaded to TinaCloud servers and distributed via a CDN. This ensures that images are accessible through the Tina Media Manager, as they require a URL for accessibility. Without this, images won&rsquo;t appear in the Media Manager until the site is rebuilt.</p>
+<h3 id="2-dynamic-branch-switching-at-runtime">2. Dynamic Branch Switching at Runtime</h3>
+<p>TinaCloud allows for changing the content branch at runtime, a feature managed through URL modification. However, in self-hosted Tina, changing branches is restricted to the build phase only.</p>
+<p>This limitation means that commands like:</p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  <nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg !leading-[1.2] *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
+  >
+    
+    <a class="ltr:pr-3 rtl:pl-3" href="http://localhost:1313/posts/using-the-tina-editor/"
+      ><span class="ltr:mr-1.5 rtl:ml-1.5">←</span><span>Using the Tina Editor</span></a
+    >
+    
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
+
+
+    </main>
+
+    
+<footer class="bg-white dark:bg-gray-900">
+  <div>Hello</div>
+</footer>
+
+  </body>
+</html>

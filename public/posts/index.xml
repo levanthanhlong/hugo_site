@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Headbook</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Headbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 17:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Modeling with TinaCMS</title>
+      <link>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</guid>
+      <description>Introduction The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
+    </item>
+    <item>
+      <title>Data Fetching</title>
+      <link>http://localhost:1313/posts/data-fetching/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/data-fetching/</guid>
+      <description>Introduction 11 With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they&amp;rsquo;re in a database.&#xA;You can:&#xA;Query content for a given collection222 Apply filters, sorting, pagination, etc1 ádfsadfsdfưqwe Query your content based on relational fields.12 To interface with the API, you can use Tina&amp;rsquo;s type-safe client for dádfsdfata-fetc22hing, or 222 manually write custom GraphQL queries and hit the API yourself.</description>
+    </item>
+    <item>
+      <title>Hugo &#43; TinaCMS Setup Guide</title>
+      <link>http://localhost:1313/posts/hugo--tinacms-setup-guide/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo--tinacms-setup-guide/</guid>
+      <description>Introduction The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
+    </item>
+    <item>
+      <title>Using the Tina Editor</title>
+      <link>http://localhost:1313/posts/using-the-tina-editor/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/using-the-tina-editor/</guid>
+      <description>Tina is very flexible &amp;amp; extendable, so any Tina site may have a unique experience. As an introduction, we&amp;rsquo;ll cover the out-of-the-box experience that most of our starters implement.&#xA;Entering the CMS When tina is initialized it creates a static build of your site, and a /admin route that allows you to edit your site&amp;rsquo;s content. The static build is located at &amp;lt;PublicFolder&amp;gt;/admin/index.html.&#xA;When this page is visited in the browser, the Tina CMS is loaded and the user is prompted to log in.</description>
+    </item>
+    <item>
+      <title>What is TinaCloud?</title>
+      <link>http://localhost:1313/posts/what-is-tinacloud/</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/what-is-tinacloud/</guid>
+      <description>TinaCloud is a hosted datalayer for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be self-hosted or used independently of TinaCloud as well.</description>
+    </item>
+  </channel>
+</rss>
