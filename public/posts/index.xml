@@ -6,49 +6,182 @@
     <description>Recent content in Posts on Headbook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2024 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 17:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Fetching</title>
-      <link>http://localhost:1313/posts/data-fetching/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/data-fetching/</guid>
-      <description>Introduction 11 With Tina, your content is stored in Git along with your codebase. Tina provides a Content API in front of your repo-based content, so that you can interact with your files as if they&amp;rsquo;re in a database.ssss&#xA;You can:&#xA;Query content for a given collection222 Apply filters, sorting, pagination, etc1 ádfsadfsdfưqwe Query your content based on relational fields.12 To interface with the API, you can use Tina&amp;rsquo;s type-safe client for dádfsdfata-fetc22hing, or 222 manually write custom GraphQL queries and hit the API yourself.</description>
+      <title>1. TÌNH HÌNH CHUNG</title>
+      <link>http://localhost:1313/posts/1-tnh-hnh-chung/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1-tnh-hnh-chung/</guid>
+      <description>Lừa đảo trực tuyến là vấn đề đã và đang nhận được nhiều sự quan tâm của toàn xã hội. Các đối tượng xấu lợi dụng bối cảnh bùng nổ công nghệ thông tin để thực hiện nhiều vụ lừa đảo trực tuyến, chiếm đoạt tài sản có giá trị cao. Trong đó, có 3 nhóm lừa đảo chính (giả mạo thương hiệu, chiếm đoạt tài khoản và các hình thức kết hợp khác) với 24 hình thức lừa đảo đang diễn ra trên không gian mạng Việt Nam:</description>
     </item>
     <item>
-      <title>GraphQL là gì? Bắt đầu với GraphQL</title>
-      <link>http://localhost:1313/posts/graphql-l-g-bt-u-vi-graphql/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/graphql-l-g-bt-u-vi-graphql/</guid>
-      <description>Chào mọi người. Sau khi tìm hiểu về GraphQL, mình xin mạo muội chia sẻ chút kiến thức về nó cho mọi người cùng tiếp cận và cách sử dụng GraphQL như thế nào nhé.&#xA;I. Giới thiệu về GraphQL 1.1 Tổng quan GraphQL là ngôn ngữ thao tác và truy vấn dữ liệu nguồn mở cho API, cung cấp cho client 1 cách thức dễ dàng để request chính xác những gì họ cần, giúp việc phát triển API dễ dàng hơn theo thời gian.</description>
+      <title>2.1 Lừa đảo “combo du lịch giá rẻ”</title>
+      <link>http://localhost:1313/posts/21-lua-dao-combo-du-lich-gia-re/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/21-lua-dao-combo-du-lich-gia-re/</guid>
+      <description>Dấu hiệu nhận diện:&#xA;Đăng tải bài viết quảng cáo bán tour du lịch, phòng khách sạn giá rẻ trên mạng Internet và mạng xã hội với nhiều tiện ích kèm theo, đề nghị nạn nhân chuyển tiền đặt cọc (từ 30-50% giá trị) để đặt cọc tour du lịch, phòng khách sạn, từ đó chiếm đoạt số tiền đặt cọc. Đăng bài viết quảng cáo dịch vụ làm visa (thị thực) du lịch nước ngoài, cam kết tỷ lệ thành công cao, hoàn trả 100% số tiền nếu không xin được visa.</description>
     </item>
     <item>
-      <title>Hugo &#43; TinaCMS Setup Guide</title>
-      <link>http://localhost:1313/posts/hugo--tinacms-setup-guide/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo--tinacms-setup-guide/</guid>
-      <description>Introduction The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
+      <title>2.10  Phát tán tin nhắn giả mạo thương hiệu (SMS Brandname)</title>
+      <link>http://localhost:1313/posts/210-phat-tan-tin-nhan-gia-mao-thuong-hieu/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/210-phat-tan-tin-nhan-gia-mao-thuong-hieu/</guid>
+      <description>Dấu hiệu nhận biết: Tình trạng tin nhắn SMS Brandname giả mạo phần lớn xuất phát từ việc các đối tượng sử dụng trạm phát sóng BTS giả mạo để gửi hàng loạt tin nhắn lừa đảo tới người dùng với mục đích nhằm chiếm đoạt tài sản.&#xA;Các điện thoại với tính năng tự động kết nối vào các trạm BTS có cường độ sóng mạnh, do cơ chế này nên các máy điện thoại tự động kết nối vào trạm BTS giả đang phát 2G ở gần.</description>
     </item>
     <item>
-      <title>Using the Tina Editor</title>
-      <link>http://localhost:1313/posts/using-the-tina-editor/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/using-the-tina-editor/</guid>
-      <description>Tina is very flexible &amp;amp; extendable, so any Tina site may have a unique experience. As an introduction, we&amp;rsquo;ll cover the out-of-the-box experience that most of our starters implement.&#xA;Entering the CMS When tina is initialized it creates a static build of your site, and a /admin route that allows you to edit your site&amp;rsquo;s content. The static build is located at &amp;lt;PublicFolder&amp;gt;/admin/index.html.&#xA;When this page is visited in the browser, the Tina CMS is loaded and the user is prompted to log in.</description>
+      <title>2.11  Lừa đảo đầu tư chứng khoán quốc tế, tiền ảo</title>
+      <link>http://localhost:1313/posts/211-lua-dao-dau-tu-chung-khoan-tien-ao/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/211-lua-dao-dau-tu-chung-khoan-tien-ao/</guid>
+      <description>Nhận diện sàn đầu tư chứng khoán quốc tế, giao dịch vàng, ngoại hối, tiền ảo, bất động sản, kinh doanh đa cấp có mục tiêu quảng cáo, lôi kéo số lượng lớn người tham gia đầu tư và có nguy cơ lừa đảo chiếm đoạt tài sản là rất quan trọng để bảo vệ mình và tránh rơi vào các cạm bẫy tài chính.&#xA;Dưới đây là một số dấu hiệu để nhận diện:</description>
     </item>
     <item>
-      <title>What is TinaCloud?</title>
-      <link>http://localhost:1313/posts/what-is-tinacloud/</link>
-      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-tinacloud/</guid>
-      <description>TinaCloud is a hosted datalayer for TinaCMS. TinaCloud is the easiest way to use TinaCMS in production. It provides a hosted GraphQL endpoint for your content, Git integration, user management, editorial workflow features and more. It also grants authorization for other users (content creators, editors, marketers, etc) to login and edit their site without needing to grant direct access to the repository in GitHub. TinaCMS can be self-hosted or used independently of TinaCloud as well.</description>
+      <title>2.12  Lừa đảo tuyển dụng CTV online</title>
+      <link>http://localhost:1313/posts/212-lua-dao-ctv-online/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/212-lua-dao-ctv-online/</guid>
+      <description>Hiện nay, hình thức lừa đảo phổ biến nhất vẫn là lừa tuyển cộng tác viên &amp;ldquo;việc nhẹ lương cao&amp;rdquo; - giả mạo các trang sàn thương mại điện tử như Tiki, Shopee, Lazada và các thương hiệu lớn để chiếm đoạt tài sản của các nạn nhân. Khoản tiền các đối tượng lừa chiếm đoạt được từ hình thức này thường từ vài triệu đến vài trăm triệu đồng.</description>
     </item>
     <item>
-      <title>Content Modeling with TinaCMSs</title>
-      <link>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</link>
-      <pubDate>Tue, 27 Aug 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/content-modeling-with-tinacms-copy/</guid>
-      <description>Introductionnz The Tina schema defines the shape of your content. Tina uses a &amp;ldquo;content-modeling as code&amp;rdquo; approach. This has a few benefits compared to modelling through a UI:&#xA;The schema is version-controlled Mutating the schema is easy, as you can test out changes locally, or in a branch. The developer can extend the schema in interesting ways (custom validation, custom UI fields, etc). The content model, and all configuration code is defined in a file called tina/config.</description>
+      <title>2.13  Đánh cắp tài khoản MXH, nhắn tin lừa đảo</title>
+      <link>http://localhost:1313/posts/213-danh-cap-tai-khoan-mxh/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/213-danh-cap-tai-khoan-mxh/</guid>
+      <description>Dấu hiệu nhận diện và biện pháp phòng tránh:&#xA;Tin nhắn hoặc email đáng ngờ: Nếu bạn nhận được một tin nhắn hoặc email từ một người bạn trong danh sách bạn bè yêu cầu cung cấp thông tin cá nhân nhạy cảm, yêu cầu chuyển tiền hoặc thực hiện hành động khẩn cấp, hãy cảnh giác. Đặc biệt, nếu tin nhắn có chứa các lời khẩn cấp, đe dọa hoặc yêu cầu không phù hợp, hãy kiểm tra lại xem có phải tin nhắn thực sự từ bạn bè của bạn hay không.</description>
+    </item>
+    <item>
+      <title>2.14 Giả danh cơ quan công an, viện kiểm sát, tòa án gọi điện lừa đảo</title>
+      <link>http://localhost:1313/posts/214-gia-danh-co-quan-cong-an/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/214-gia-danh-co-quan-cong-an/</guid>
+      <description>Dấu hiệu nhận biết:&#xA;Đối tượng giả danh cơ quan công an, viện kiểm sát, tòa án để gọi điện hăm dọa và lừa đảo thường sử dụng các chiêu trò và phương pháp nhằm lừa đảo và chiếm đoạt tài sản của nạn nhân. Dưới đây là một số dấu hiệu nhận diện:&#xA;Sử dụng số điện thoại giả mạo: Đối tượng sẽ sử dụng số điện thoại giả mạo, có thể hiển thị số điện thoại của cơ quan công an, viện kiểm sát hoặc tòa án trên màn hình điện thoại của bạn.</description>
+    </item>
+    <item>
+      <title>2.15  Rao bán hàng giả hàng nhái qua sàn thương mại điện tử</title>
+      <link>http://localhost:1313/posts/215-rao-ban-gia-hang-nhai-qua-sang-tmdt/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/215-rao-ban-gia-hang-nhai-qua-sang-tmdt/</guid>
+      <description>Dấu hiệu nhận diện:&#xA;Dấu hiệu nhận biết các hoạt động thương mại điện tử, rao bán hàng giả và hàng nhái trên mạng xã hội và các sàn thương mại điện tử có thể bao gồm:&#xA;Giá quá rẻ: Sản phẩm được rao bán với giá cực kỳ hấp dẫn, thường rẻ hơn rất nhiều so với giá thị trường. Đây có thể là dấu hiệu của hàng giả, hàng nhái hoặc gian lận.</description>
+    </item>
+    <item>
+      <title>2.16  Đánh cắp thông tin CCCD đi vay tín dụng</title>
+      <link>http://localhost:1313/posts/216-danh-cap-thong-tin-cccd-di-vay-ngan-hang/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/216-danh-cap-thong-tin-cccd-di-vay-ngan-hang/</guid>
+      <description>Sự nguy hiểm của việc sử dụng thông tin trên CCCD đăng ký mã số thuế ảo, vay tiền từ các tổ chức tín dụng trên mạng xã hội và lừa đảo chiếm đoạt tài sản là rất nghiêm trọng. Dưới đây là các cảnh báo bạn nên lưu ý:&#xA;Cảnh báo về việc tiết lộ thông tin cá nhân: Sử dụng thông tin trên CCCD (Chứng minh nhân dân) để đăng ký mã số thuế ảo hoặc cung cấp thông tin cá nhân như số CMND, ngày sinh, địa chỉ trên mạng xã hội có thể rất nguy hiểm.</description>
+    </item>
+    <item>
+      <title>2.17  Lừa đảo “chuyển nhầm tiền” vào tài khoản ngân hàng</title>
+      <link>http://localhost:1313/posts/217-lua-dao-chuyen-nham-tien-vao-tai-khoan/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/217-lua-dao-chuyen-nham-tien-vao-tai-khoan/</guid>
+      <description>Cảnh báo: Lừa đảo chuyển nhầm tiền vào tài khoản ngân hàng và giả danh người thu hồi nợ để yêu cầu trả lại số tiền là một hình thức lừa đảo nguy hiểm. Dưới đây là các điểm cần lưu ý và biện pháp phòng ngừa để bảo vệ bản thân:&#xA;Không chuyển tiền ngay lập tức: Hãy luôn kiểm tra và xác nhận rõ ràng nguồn gốc và mục đích của giao dịch chuyển tiền trước khi thực hiện.</description>
+    </item>
+    <item>
+      <title>2.18  Lừa đảo dịch vụ lấy lại tiền khi đã bị lừa</title>
+      <link>http://localhost:1313/posts/218-lua-dao-dich-vu-lay-lai-tien-khi-da-bi-lua/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/218-lua-dao-dich-vu-lay-lai-tien-khi-da-bi-lua/</guid>
+      <description>Dấu hiệu nhận biết:&#xA;Nghiên cứu mục tiêu: kẻ lừa đảo xác định những cá nhân hoặc tổ chức có danh tiếng chân thật và đáng tin cậy. Điều này sẽ giúp kẻ lừa đảo chọn đúng mục tiêu để giả mạo. Tạo một danh tính giả: kẻ lừa đảo xây dựng một nhân vật xuất hiện có thể tin tưởng và đáng tin cậy. Điều này có thể liên quan đến việc tạo các hồ sơ giả, trang web giả hoặc tài liệu để ủng hộ sự lừa dối của bạn.</description>
+    </item>
+    <item>
+      <title>2.19  Lừa đảo lấy cắp Telegram OTP </title>
+      <link>http://localhost:1313/posts/219-lua-dao-lay-cap-telegram-otp/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/219-lua-dao-lay-cap-telegram-otp/</guid>
+      <description>Dấu hiệu nhận biết:&#xA;Thường kẻ lừa đảo, tạo một profile giả mạo, đánh cắp hình ảnh của 1 người uy tín có liên quan đến nạn nhân để tạo sự tin cậy: thường dùng sự kiện đáng tin cậy và hấp dẫn để đảm bảo người khác tin tưởng và tham gia vào quá trình.&#xA;Gửi thông báo giả từ tài khoản Telegram được giả danh như một cơ quan chính phủ, tổ chức tài chính, hoặc một người có uy tín cao.</description>
+    </item>
+    <item>
+      <title>2.2 Lừa đảo cuộc gọi video Deepfake</title>
+      <link>http://localhost:1313/posts/22-lua-dao-cuoc-goi-video-deepfake/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/22-lua-dao-cuoc-goi-video-deepfake/</guid>
+      <description>Deepfake đang là một mối đe dọa đối với sự trung thực và tin cậy của video và hình ảnh. Các đối tượng sử dụng công nghệ trí tuệ nhân tạo (AI) để tạo ra những video hoặc hình ảnh giả, sao chép chân dung để tạo ra các đoạn video giả người thân, bạn bè để thực hiện các cuộc gọi lừa đảo trực tuyến.Phần lớn hình thức lừa đảo trực tuyến này nhắm tới việc lừa đảo tài chính.</description>
+    </item>
+    <item>
+      <title>2.20  Lừa đảo tung tin giả về cuộc gọi mất tiền như FlashAI </title>
+      <link>http://localhost:1313/posts/220-lua-dao-tung-tin-gia-ve-cuoc-g%E1%BB%8Di-mat-tien/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/220-lua-dao-tung-tin-gia-ve-cuoc-g%E1%BB%8Di-mat-tien/</guid>
+      <description>Thông tin rằng chỉ bằng việc nhận cuộc gọi voicecall bạn có thể bị mất tiền như FlashAI hoặc tương tự là KHÔNG chính xác.&#xA;Không có cách nào để người dùng bị trừ tiền chỉ bằng việc nhận cuộc gọi voicecall thông thường trên điện thoại di động. Việc các đối tượng làm vậy nhằm mục đích câu views, likes và gây hoang mang dư luận xã hội.&#xA;Bạn nên cảnh giác và tránh tiếp nhận các cuộc gọi không mong muốn từ các số điện thoại lạ, đặc biệt là từ các số không rõ nguồn gốc.</description>
+    </item>
+    <item>
+      <title>2.21  Lừa đảo dịch vụ lấy lại Facebook</title>
+      <link>http://localhost:1313/posts/221-lua-dao-dich-vu-lay-lai-facebook/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/221-lua-dao-dich-vu-lay-lai-facebook/</guid>
+      <description>Dấu hiệu nhận biết:&#xA;Tìm thông tin tài khoản Facebook: Kẻ lừa đảo tìm cách thu thập thông tin tài khoản Facebook mục tiêu mà họ muốn lừa đảo. Kẻ lừa đảo có thể sử dụng các phương pháp như lừa đảo thông qua email, trang web giả mạo hoặc sử dụng các phần mềm mã độc đánh cắp thông tin. Giả mạo dịch vụ lấy lại tài khoản: Tạo ra một trang web giả mạo hoặc gửi email giả mạo cho người dùng Facebook, hoặc chủ động nhắn tin cho người dùng Facebook, tuyên bố rằng họ là dịch vụ lấy lại tài khoản và có thể giúp nạn nhân khôi phục tài khoản bị mất.</description>
+    </item>
+    <item>
+      <title>2.22  Lừa đảo tình cảm</title>
+      <link>http://localhost:1313/posts/222-lua-dao-tinh-cam/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/222-lua-dao-tinh-cam/</guid>
+      <description>Dấu hiệu nhận diện:&#xA;Xác định và tiếp cận nạn nhân: Tìm và tiếp cận người mục tiêu thông qua các kênh trực tuyến như mạng xã hội, trang web hẹn hò hoặc diễn đàn. Kẻ lừa đảo tạo một hồ sơ giả mạo, sử dụng hình ảnh đánh cắp của người khác với ngoại hình đẹp và lôi cuốn, sau đó sử dụng các chiêu trò lừa đảo để thu hút sự quan tâm của nạn nhân.</description>
+    </item>
+    <item>
+      <title>2.23  Rải link phishing lừa đảo, seeding quảng cáo bẩn trên Facebook</title>
+      <link>http://localhost:1313/posts/223--ri-link-phishing-la-o-seeding-qung-co-bn-trn-facebook/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/223--ri-link-phishing-la-o-seeding-qung-co-bn-trn-facebook/</guid>
+      <description>Dấu hiệu nhận biết:&#xA;Kẻ lừa đảo tạo một trang web giả mạo có giao diện tương tự như một trang web đáng tin cậy như ngân hàng hoặc dịch vụ trực tuyến. Trang web này được thiết kế để thu thập thông tin cá nhân và đăng nhập của người dùng khi họ nhập vào. Tạo một đường link hấp dẫn: Tạo một đường link hấp dẫn sử dụng một tiêu đề hoặc mô tả mà người dùng có thể quan tâm, chẳng hạn như &amp;ldquo;Nhận ngay ưu đãi đặc biệt&amp;rdquo; hoặc &amp;ldquo;Kiểm tra tài khoản của bạn&amp;rdquo; hoặc &amp;ldquo;Bạn bị bóc phốt&amp;rdquo; hoặc các sự kiện đang hot trending xu hướng trên mạng xã hội.</description>
+    </item>
+    <item>
+      <title>2.24  Lừa đảo cho số đánh lô đề</title>
+      <link>http://localhost:1313/posts/224-lua-dao-cho-so-danh-lo-de/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/224-lua-dao-cho-so-danh-lo-de/</guid>
+      <description>Cảnh báo: Đánh số lô, số đề trên mạng xã hội với các dấu hiệu như phải đóng phí trước, rủi ro mất phí khi không trúng, và phải chia hoa hồng khi trúng là một hình thức lừa đảo nguy hiểm.&#xA;Dấu hiệu nhận biết:&#xA;Tiếp cận và quảng cáo: Kẻ lừa đảo tiếp cận người khác thông qua các phương tiện như điện thoại, email, tin nhắn hoặc mạng xã hội.</description>
+    </item>
+    <item>
+      <title>2.3 Lừa đảo “khóa SIM” vì chưa chuẩn hóa thuê bao</title>
+      <link>http://localhost:1313/posts/23-lua-dao-khoa-sim-vi-chua-chuan-hoa-thue-bao/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/23-lua-dao-khoa-sim-vi-chua-chuan-hoa-thue-bao/</guid>
+      <description>Dấu hiệu nhận diện: Các đối tượng mạo danh là cán bộ, nhân viên của cơ quan quản lý Nhà nước hoặc nhà mạng gọi điện và thông báo số điện thoại của người sử dụng sẽ bị khóa 2 chiều trong 2 tiếng với các lý do như “chưa nộp phạt”, “thuê bao sai thông tin”.&#xA;Sau khi yêu cầu cung cấp thông tin, chúng sẽ tiếp tục hướng dẫn người dùng thực hiện một số bước tiếp theo như: thực hiện các cú pháp sang tên đổi chủ thông tin số điện thoại, cú pháp chuyển hướng cuộc gọi&amp;hellip;</description>
+    </item>
+    <item>
+      <title>2.4 Giả mạo biên lai chuyển tiền thành công</title>
+      <link>http://localhost:1313/posts/24-gia-mao-bien-lai-chuyen-tien-thanh-cong/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/24-gia-mao-bien-lai-chuyen-tien-thanh-cong/</guid>
+      <description>Dấu hiệu nhận diện: Thủ đoạn của các đối tượng lừa đảo là mua hàng số lượng lớn, sau đó vay thêm tiền mặt của nạn nhân rồi chuyển khoản trả.&#xA;Các đối tượng đề nghị chuyển khoản theo hình thức Internet Banking cho người bán hàng. Nhưng thực chất là không có việc chuyển tiền thật, mà các đối tượng đã dùng một số phần mềm tạo dựng bill thanh toán giả rồi đưa cho người bán hàng xem nhằm chứng minh là đã thực hiện việc chuyển khoản.</description>
+    </item>
+    <item>
+      <title>2.5 Giả danh giáo viên/nhân viên y tế báo người thân đang cấp cứu</title>
+      <link>http://localhost:1313/posts/25-gia-danh-giao-vien-nhan-vien-y-te/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/25-gia-danh-giao-vien-nhan-vien-y-te/</guid>
+      <description>Dấu hiệu nhận biết: Các đối tượng lừa đảo tự xưng là giáo viên/ nhân viên y tế, gọi điện cho phụ huynh, học sinh thông báo rằng con em/ người thân họ đang cấp cứu trong tình trạng nguy kịch. Những “thầy cô giáo tự xưng” này thay phiên nhau gọi điện thúc giục cha mẹ chuyển tiền cứu con, nếu không hoặc chậm nộp tiền thì con của họ sẽ nguy hiểm đến tính mạng.</description>
+    </item>
+    <item>
+      <title>2.6 Chiêu trò lừa đảo tuyển người mẫu nhí</title>
+      <link>http://localhost:1313/posts/26-chieu-tro-lua-dao-tuyen-nguoi-mau-nhi/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/26-chieu-tro-lua-dao-tuyen-nguoi-mau-nhi/</guid>
+      <description>Dấu hiệu nhận biết: Thủ đoạn của các đối tượng là thông qua mạng xã hội như Facebook, Zalo, Telegram…, các đối tượng lừa đảo sẽ kết bạn với phụ huynh và mời tham gia ứng tuyển người mẫu nhí cho hãng thời trang. Sau khi nạn nhân “cắn câu”, các đối tượng lừa đảo sẽ đưa vào một group chat để mời tham gia thử thách.&#xA;Thử thách cho các phụ huynh khi muốn con mình tham gia vào ứng tuyển “người mẫu nhí” là chuyển khoản để mua sản phẩm hàng hiệu, sau đó cho con em mình làm mẫu chụp ảnh để giới thiệu, quảng bá sản phẩm trên mạng xã hội.</description>
+    </item>
+    <item>
+      <title>2.7 Giả danh các công ty tài chính, ngân hàng thu thập thông tin</title>
+      <link>http://localhost:1313/posts/27-gia-danh-cac-cong-ty-tai-chinh-ngan-hang-thu-thap-thong-tin/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/27-gia-danh-cac-cong-ty-tai-chinh-ngan-hang-thu-thap-thong-tin/</guid>
+      <description>Dấu hiệu nhận biết: Thủ đoạn lừa đảo của các đối tượng là đánh vào tâm lý của những người đang cần tiền kinh doanh, tiêu xài, muốn được vay với số tiền lớn nhưng lại gặp khó do dính nợ xấu hoặc không đủ điều kiện vay vốn tại các tổ chức tài chính. Từ đó, các đối tượng mạo danh một số ngân hàng và các công ty tài chính có thật tại Việt Nam, tạo lập website, ứng dụng, chạy quảng cáo thông qua các nền tảng mạng xã hội để chào mời cho vay tín chấp với lãi suất đặc biệt thấp.</description>
+    </item>
+    <item>
+      <title>2.8 Cài cắm ứng dụng, link quảng cáo cờ bạc, cá độ, tín dụng đen...</title>
+      <link>http://localhost:1313/posts/28-cai-cam-ung-dung-link-quang-cao-co-bac/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/28-cai-cam-ung-dung-link-quang-cao-co-bac/</guid>
+      <description>Dấu hiệu nhận biết: Lợi dụng tính năng cho phép đăng thông tin của trang web như đăng hỏi đáp, diễn đàn, tải tập tin, các đối tượng xấu đưa quảng cáo lên. Các ứng dụng vay tiền trực tuyến hay các link quảng cáo cờ bạc, cá độ thường được quảng cáo rộng rãi trên các trang web với những tiêu đề thu hút như “Không cần thế chấp, lãi suất không đồng”, “Vay siêu tốc, nhận tiền sau 30 phút, lãi suất thấp, nhận tiền ngay”… hoặc nhắn tin qua số điện thoại kèm theo đường link đến ứng dụng… Người có nhu cầu tham gia chỉ cần ấn (click) vào những trang quảng cáo, tải các ứng dụng về máy tính hoặc điện thoại thông minh, nhập các thông tin cá nhân, số tài khoản ngân hàng nhận tiền, ảnh chứng minh nhân dân, ảnh cá nhân và đồng ý cho truy cập vào danh bạ cá nhân…</description>
+    </item>
+    <item>
+      <title>2.9 Giả mạo các trang thông tin điện tử cơ quan, doanh nghiệp(BHXH, ngân hàng…)</title>
+      <link>http://localhost:1313/posts/29-gia-mao-cac-trang-thong-tin-dien-tu-co-quan-doanh-nghiep/</link>
+      <pubDate>Tue, 03 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/29-gia-mao-cac-trang-thong-tin-dien-tu-co-quan-doanh-nghiep/</guid>
+      <description>Cùng với sự phát triển mạnh mẽ của công nghệ thông tin, các đối tượng xấu có thể thực hiện việc giả mạo một trang web khi có các kiến thức như một lập trình viên.&#xA;Các đối tượng này có thể tạo trang web có giao diện gần giống trang web của cơ quan, doanh nghiệp từ hình ảnh, giao diện và nội dung để người dùng nhầm tưởng là trang web của đơn vị cung cấp.</description>
     </item>
   </channel>
 </rss>

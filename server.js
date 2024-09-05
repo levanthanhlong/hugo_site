@@ -44,13 +44,16 @@ app.get("/api/check-auth", (req, res) => {
 });
 
 //Chạy Hugo server
-exec("hugo server", (err, stdout, stderr) => {
-  if (err) {
-    console.error(`Error starting Hugo: ${err.message}`);
-    return;
-  }
-  console.log(`Hugo server output: ${stdout}`);
-});
+// exec(
+//   "ls content/posts/*.md | entr -r hugo server",
+//   (err, stdout, stderr) => {
+//     if (err) {
+//       console.error(`Error starting Hugo: ${err.message}`);
+//       return;
+//     }
+//     console.log(`Hugo server output: ${stdout}`);
+//   }
+// );
 
 // Chạy TinaCMS server
 exec("npx tinacms dev", (err, stdout, stderr) => {
